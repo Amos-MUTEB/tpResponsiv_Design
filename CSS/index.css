@@ -9,7 +9,10 @@ body{
 #title{
     height: 280px;
     background-color: grey;
-    text-align: center;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
 }
 
 a{
